@@ -53,6 +53,15 @@ Before running the project, ensure the following:
 
 ---
 
+## Future Enhancements
+
+- **Multi-Repo Support**: Monitor commits across multiple repositories.
+- **Enhanced Analytics**: Include LOC changes and commit messages in notifications.
+- **Dashboard Integration**: Include LOC changes and commit messages in notifications.
+- **Email Notifications**: Add an alternative to Telegram alerts.
+
+---
+
 ## Project Structure
   ```bash
   CodeRem/
@@ -74,12 +83,4 @@ Before running the project, ensure the following:
   ├── README.md                   Project documentation
   └── server.js                   Application entry point
 
----
-
-## Future Enhancements
-
-- **Multi-Repo Support**: Monitor commits across multiple repositories.
-- **Enhanced Analytics**: Include LOC changes and commit messages in notifications.
-- **Dashboard Integration**: Include LOC changes and commit messages in notifications.
-- **Email Notifications**: Add an alternative to Telegram alerts.
 
