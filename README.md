@@ -38,7 +38,7 @@ Before running the project, ensure the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/coderem.git
+   git clone https://github.com/ishaaq48/coderem.git
    cd coderem
 2. **Install Dependencies:
    ```bash
